@@ -1,0 +1,1 @@
+{"name":"Local: 2218A","url":"c:\\Projects\\cp-2\\2218A.cpp","tests":[{"id":1783256607625,"input":"3\n1\n3\n5","output":"2\n4\n6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Projects\\cp-2\\2218A.cpp","group":"local","local":true}
