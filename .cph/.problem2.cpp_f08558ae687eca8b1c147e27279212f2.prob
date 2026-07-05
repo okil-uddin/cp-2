@@ -1,0 +1,1 @@
+{"name":"Local: problem2","url":"c:\\Projects\\cp-2\\problem2.cpp","tests":[{"id":1783281023697,"input":"aaabbcca","output":"4"},{"id":1783281033489,"input":"tttteeeeuuurrriiirrtt","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Projects\\cp-2\\problem2.cpp","group":"local","local":true}
