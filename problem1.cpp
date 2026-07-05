@@ -1,4 +1,4 @@
-// Change the minimum number of characters in a binary string so that it becomes perfectly alternating
+// Change the minimum number of characters in a binary string so that it becomes perfectly alternative
 /*input:
 5
 0
